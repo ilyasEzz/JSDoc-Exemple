@@ -4,10 +4,12 @@
   "description": "learning to document code with JS DOc",
   "main": "index.js",
   "scripts": {
-    "doc": "jsdoc src/index.js"
+    "doc": "jsdoc src/index.js",
+    "deploy": "gh-pages -d output"
   },
   "author": "Ilyas Ezzahid",
   "license": "ISC",
+  "homepage": "https://ilyasEzz.github.io/JSDoc-Exemple",
   "devDependencies": {
     "jsdoc": "^3.6.4"
   },
