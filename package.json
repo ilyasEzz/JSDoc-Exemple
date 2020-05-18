@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "doc": "jsdoc src/index.js",
-    "deploy": "gh-pages -d output"
+    "deploy": "gh-pages -d out"
   },
   "author": "Ilyas Ezzahid",
   "license": "ISC",
