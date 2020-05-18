@@ -10,5 +10,8 @@
   "license": "ISC",
   "devDependencies": {
     "jsdoc": "^3.6.4"
+  },
+  "dependencies": {
+    "gh-pages": "^2.2.0"
   }
 }
