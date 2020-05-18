@@ -1,0 +1,14 @@
+{
+  "name": "js-doc",
+  "version": "1.0.0",
+  "description": "learning to document code with JS DOc",
+  "main": "index.js",
+  "scripts": {
+    "doc": "jsdoc src/index.js"
+  },
+  "author": "Ilyas Ezzahid",
+  "license": "ISC",
+  "devDependencies": {
+    "jsdoc": "^3.6.4"
+  }
+}
